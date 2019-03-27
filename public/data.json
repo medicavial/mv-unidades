@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "idLargo": "20190226145000",
+        "nombre" : "MédicaVial Roma",
+        "nombreCorto": "MV Roma",
+        "nombreComercial": "Clínica MédicaVial Roma-Condesa",
+        "domicilioFisico": {
+            "direccion": "Alvaro Obregon 121, piso 10, Roma Norte",
+            "municipio": "Cuauhtémoc",
+            "codigoPostal": "06700",
+            "localidad": "Cuauhtémoc",
+            "estado": "CDMX",
+            "coordenadas": {
+                "lat": "19.4185366",
+                "lon": "-99.1604529"
+            }
+        },
+        "datosFiscales": {
+            "rfc": "MED011012TD4",
+            "razonSocial": "MEDICAVIAL SA",
+            "domicilio": "Alvaro Obregon 121 piso 10, Roma Norte, Ciudad de México. CP 06700"
+        },
+        "contacto": {
+            "telefonos":[
+                "(55) 5533 2400",
+                "(55) 5533 2401"
+            ],
+            "email": "mvroma@medicavial.com.mx",
+            "website": "https://www.medicavial.com"
+        },
+        "clavePagos": "",
+        "imagenes": {
+            "logo": "logo.png",
+            "principal": "principal.jpg",
+            "unidad" : []
+        },
+        "documentos": []
+    },
+
+    {
+        "id": 2,
+        "idLargo": "20190226145400",
+        "nombre": "Hospital Santa Barbara de Rieti",
+        "nombreCorto": "Dgo-H S. B. Rieti",
+        "nombreComercial": "Hospital Santa Barbara de Rieti",
+        "domicilioFisico": {
+            "direccion": "Boulevard Felipe Pescador 302, Zona Centro",
+            "municipio": "Durango",
+            "codigoPostal": "34000",
+            "localidad": "Durango",
+            "estado": "Durango",
+            "coordenadas": {
+                "lat": "24.0352781",
+                "lon": "-104.662977"
+            }
+        },
+        "datosFiscales": {
+            "rfc": "HSB120926JP6",
+            "razonSocial": "HOSPITAL SANTA BARBARA DEL RIETI",
+            "domicilio": "Boulevard Felipe Pescador 302, Zona Centro, Durango, Durango. CP 34000"
+        },
+        "contacto": {
+            "telefonos": [
+                "(618) 811 1025"
+            ],
+            "email": "",
+            "website": "http://www.hospitalsantabarbaradelrieti.com.mx/"
+        },
+        "clavePagos": "",
+        "imagenes": {
+            "logo": "logo.jpg",
+            "principal": "principal.jpg",
+            "unidad": []
+        },
+        "documentos": []
+    },
+
+    {
+        "id": 3,
+        "idLargo": "20190304133800",
+        "nombre": "MédicaVial Perisur",
+        "nombreCorto": "MV Perisur",
+        "nombreComercial": "Clínica MédicaVial Perisur",
+        "domicilioFisico": {
+            "direccion": "Periferico Sur 4829, piso 6, Col. Parques del Pedregal",
+            "municipio": "Tlalpan",
+            "codigoPostal": "14010",
+            "localidad": "Tlalpan",
+            "estado": "CDMX",
+            "coordenadas": {
+                "lat": "19.3022017",
+                "lon": "-99.1883355"
+            }
+        },
+        "datosFiscales": {
+            "rfc": "MED011012TD4",
+            "razonSocial": "MEDICAVIAL SA",
+            "domicilio": "Alvaro Obregon 121 piso 10, Roma Norte, Ciudad de México. CP 06700"
+        },
+        "contacto": {
+            "telefonos": [
+                "(55) 5171 3030",
+                "(55) 5171 0002"
+            ],
+            "email": "mvperisur@medicavial.com.mx",
+            "website": "https://www.medicavial.com"
+        },
+        "clavePagos": "",
+        "imagenes": {
+            "logo": "logo.png",
+            "principal": "principal.jpg",
+            "unidad": []
+        },
+        "documentos": []
+    },
+
+    {
+        "id": 4,
+        "idLargo": "20190304175300",
+        "nombre": "MédicaVial Satélite",
+        "nombreCorto": "MV Satélite",
+        "nombreComercial": "Clínica MédicaVial Satélite",
+        "domicilioFisico": {
+            "direccion": "Pafnuncio Padilla 17, piso 3, Col. Ciudad Satélite.",
+            "municipio": "Naucalpan",
+            "codigoPostal": "",
+            "localidad": "Naucalpan",
+            "estado": "Estado de México",
+            "coordenadas": {
+                "lat": "",
+                "lon": ""
+            }
+        },
+        "datosFiscales": {
+            "rfc": "MED011012TD4",
+            "razonSocial": "MEDICAVIAL SA",
+            "domicilio": "Alvaro Obregon 121 piso 10, Roma Norte, Ciudad de México. CP 06700"
+        },
+        "contacto": {
+            "telefonos": [
+                "(55) 5562 0010",
+                "(55) 5562 2225"
+            ],
+            "email": "mvsatelite@medicavial.com.mx",
+            "website": "https://www.medicavial.com"
+        },
+        "clavePagos": "",
+        "imagenes": {
+            "logo": "logo.png",
+            "principal": "principal.jpg",
+            "unidad": []
+        },
+        "documentos": []
+    }
+]
